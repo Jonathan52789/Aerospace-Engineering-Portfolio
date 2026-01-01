@@ -6,7 +6,7 @@
 
 ## Troitsky Bridge CAD
 Solidworks initial truss design for competition
-![Truss Dimensions](Very-Basic-Truss-with-Dimensions.pdf)
+
 - Dimensions: 1250mm span, optimized load.
 [View Dimensions PDF](Very-Basic-Truss-with-Dimensions.pdf)
 [Plain View](Very-Basic-Truss.pdf)
