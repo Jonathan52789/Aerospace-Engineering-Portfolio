@@ -12,7 +12,7 @@ Solidworks initial basic truss design for competition
 [Plain View](Very-Basic-Truss.pdf)
 
 Solidworks Bridge Design
-
+[View PDF](Bridge.pdf)
 
 ## Contact
 Resume: [Resume (PDF)](Forlini_Jonathan_Resume.pdf) | 
