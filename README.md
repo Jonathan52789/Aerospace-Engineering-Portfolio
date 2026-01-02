@@ -11,7 +11,7 @@ Solidworks initial basic truss design for competition
 [View Dimensions PDF](Very-Basic-Truss-with-Dimensions.pdf)
 [Plain View](Very-Basic-Truss.pdf)
 
-Solidworks Bridge Design
+- Solidworks Bridge Design
 [View PDF](Bridge.pdf)
 
 ## Contact
