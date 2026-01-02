@@ -5,12 +5,12 @@
 ## ANSYS Mechanical Self-Study
 
 ## Troitsky Bridge CAD
-Solidworks designs for competition
+SolidWorks designs for competition
 
-- Basic Truss Design
+- SolidWorks Basic Truss Design
 [View Initial Basic Truss PDF](Very-Basic-Truss.pdf)
 
-- Solidworks Bridge Design
+- SolidWorks Bridge Design
 [View Bridge PDF](Bridge.pdf)
 
 ## Contact
