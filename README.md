@@ -1,9 +1,9 @@
 # Jonathan Forlini - Aerospace Engineering Portfolio
 
 ## Siemens NX Self-Study
-- Siemens NX Drawing: Drill Press Support
+- Siemens NX 3D Model: Drill Press Support
 <img width="1240" height="855" alt="image" src="https://github.com/user-attachments/assets/c04c5061-df7b-4e8c-a9a6-7dbc273ceaa3" />
-
+- Siemens NX Drawing: Drill Press Support
 ![Support_dwg1](https://github.com/user-attachments/assets/7276db92-6529-47a5-8842-5a5f642b0d99)
 
 
