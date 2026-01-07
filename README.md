@@ -3,7 +3,7 @@
 ## Siemens NX Self-Study
 - Siemens NX 3D Model: Drill Press Support (Parametric Revolve) <img width="1240" height="855" alt="image" src="https://github.com/user-attachments/assets/c04c5061-df7b-4e8c-a9a6-7dbc273ceaa3" />
 
-- Siemens NX Drawing: Drill Press Support (Orthographic views, Section A-A, Detail B (2:1 scale))
+- Siemens NX Drawing: Drill Press Support (Orthographic views, Section A-A, Detail B *2:1 scale*)
 ![Support_dwg1](https://github.com/user-attachments/assets/75de9ad6-c894-467f-a6e9-202b5bf8163d)
 
 ## ANSYS Mechanical Self-Study
