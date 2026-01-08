@@ -6,7 +6,7 @@
 - Siemens NX Drawing: Drill Press Support Orthographic views, Section A-A, Detail B (2:1 scale)
 ![Support_dwg1](https://github.com/user-attachments/assets/9e058ce7-6de5-4a96-a53b-7bec1bf70b48)
 
-- Siemens NX 3D Model: Drill Press Table lock <img width="1442" height="1116" alt="image" src="https://github.com/user-attachments/assets/2302042f-f6b6-4019-9184-b0e5ceaae3b3" />
+- Siemens NX 3D Model: Drill Press Table lock <img width="1975" height="1170" alt="image" src="https://github.com/user-attachments/assets/019a4cf2-416e-4916-82fe-271e8507b304" />
 
 - Siemens NX Drawing: Drill Press Table Lock Orthographic views, Section A-A
 ![Table Lock_dwg2](https://github.com/user-attachments/assets/d4c342c9-95ea-4cf0-b62e-32127aad44b3)
