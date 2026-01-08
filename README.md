@@ -18,8 +18,8 @@
 
 - Siemens NX 3D Model: Lever Assembly <img width="1691" height="1201" alt="image" src="https://github.com/user-attachments/assets/8096f49f-7b71-4578-b6f1-4d434cd6b341" />
 
-- Siemens NX Drawing: Lever Assembly
-
+- Siemens NX Drawing: Lever Assembly Orthographic views, Detail A (2:1 scale)
+![Lever assembly_dwg1](https://github.com/user-attachments/assets/d1760339-134c-4752-9826-089462379aea)
 
 ## ANSYS Mechanical Self-Study
 - ANSYS 3D Steady-State Thermal Analysis: Fixed-Temperature Block (22°C Base, 10°C Opposite Face, Structural Steel k=60.5 W/m·K) <img width="2172" height="929" alt="image" src="https://github.com/user-attachments/assets/ba25c446-10d5-4731-b8d1-cc62a86a2e8b" />
