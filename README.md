@@ -11,6 +11,11 @@
 - Siemens NX Drawing: Drill Press Table Lock Orthographic views, Section A-A
 ![Table Lock_dwg2](https://github.com/user-attachments/assets/d4c342c9-95ea-4cf0-b62e-32127aad44b3)
 
+- Siemens NX 3D Model: Drill Press Table <img width="2119" height="1176" alt="image" src="https://github.com/user-attachments/assets/66017c09-726e-4806-b221-4955aea8b5b0" />
+
+- Siemens NX Drawing: Drill Press Table Orthographic views, Section A-A, Detail B (1:1 scale)
+![Table_dwg1](https://github.com/user-attachments/assets/02514cb0-1e65-4242-8a13-250bb1c23764)
+
 ## ANSYS Mechanical Self-Study
 - ANSYS 3D Steady-State Thermal Analysis: Fixed-Temperature Block (22°C Base, 10°C Opposite Face, Structural Steel k=60.5 W/m·K) <img width="2172" height="929" alt="image" src="https://github.com/user-attachments/assets/ba25c446-10d5-4731-b8d1-cc62a86a2e8b" />
 
