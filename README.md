@@ -27,7 +27,8 @@
 - ANSYS 3D Static Structural: Aluminum L-Bracket (von Mises max 234 MPa, avg 11.5 MPa, δ=0.1 mm) <img width="2173" height="1204" alt="image" src="https://github.com/user-attachments/assets/7087897d-40cb-481d-beee-74edcdf82632" />
 - ANSYS 3D Static Structural: Aluminum L-Bracket (von Mises max 234 MPa, avg 11.5 MPa, δ=0.1 mm) (Section View to view internal stress) <img width="2169" height="929" alt="image" src="https://github.com/user-attachments/assets/d8417f2c-c12f-4424-a885-5ec020bfa109" />
 - ANSYS 2D Fluid Flow: NACA0008 pressure contours <img width="1675" height="1216" alt="image" src="https://github.com/user-attachments/assets/7ffb0945-b7a1-47a4-b49f-a9f7b7e9e917" />
-- ANSYS 2D Fluid Flow: NACA0008 velocity contours <img width="1668" height="1201" alt="image" src="https://github.com/user-attachments/assets/a4e33115-3c70-4f6a-9172-1000be06332c" />
+- ANSYS 2D Fluid Flow: NACA0008 velocity contours <img width="1675" height="1212" alt="image" src="https://github.com/user-attachments/assets/4481600d-a857-4916-a843-ee0d6dc6cb8e" />
+- ANSYS 2D Fluid Flow: NACA0008 velocity contours (Closeup) <img width="1668" height="1201" alt="image" src="https://github.com/user-attachments/assets/a4e33115-3c70-4f6a-9172-1000be06332c" />
 
 
 
