@@ -27,12 +27,12 @@
 - ANSYS 3D Static Structural: Aluminum L-Bracket (von Mises max 234 MPa, avg 11.5 MPa, δ=0.1 mm) <img width="2173" height="1204" alt="image" src="https://github.com/user-attachments/assets/7087897d-40cb-481d-beee-74edcdf82632" />
 - ANSYS 3D Static Structural: Aluminum L-Bracket (von Mises max 234 MPa, avg 11.5 MPa, δ=0.1 mm) (Section View to view internal stress) <img width="2169" height="929" alt="image" src="https://github.com/user-attachments/assets/d8417f2c-c12f-4424-a885-5ec020bfa109" />
 ### CFD (Fluid Flow)
-- ANSYS 2D Fluid Flow: NACA0008 pressure contour (Velocity 3m/s, Angle of Attack 0°) <img width="1675" height="1216" alt="image" src="https://github.com/user-attachments/assets/7ffb0945-b7a1-47a4-b49f-a9f7b7e9e917" />
-- ANSYS 2D Fluid Flow: NACA0008 velocity contour (Velocity 3m/s, Angle of Attack 0°) <img width="1675" height="1212" alt="image" src="https://github.com/user-attachments/assets/4481600d-a857-4916-a843-ee0d6dc6cb8e" />
-- ANSYS 2D Fluid Flow: NACA0008 velocity contour closeup (Velocity 3m/s, Angle of Attack 0°) <img width="1668" height="1201" alt="image" src="https://github.com/user-attachments/assets/a4e33115-3c70-4f6a-9172-1000be06332c" />
-- ANSYS 2D Fluid Flow: NACA0008 pressure contour (Velocity 3m/s, Angle of Attack 16°) <img width="1673" height="1202" alt="image" src="https://github.com/user-attachments/assets/255da128-9391-47b9-9fb0-55f1863c6d95" />
-- ANSYS 2D Fluid Flow: NACA0008 velocity contour (Velocity 3m/s, Angle of Attack 16°) <img width="1670" height="1210" alt="image" src="https://github.com/user-attachments/assets/ac84d529-80be-495f-9782-86a85b646aad" />
-- ANSYS 2D Fluid Flow: NACA0008 velocity contour closeup (Velocity 3m/s, Angle of Attack 16°) <img width="1123" height="378" alt="image" src="https://github.com/user-attachments/assets/86889339-bda4-4511-9eea-96da1eaaaeb3" />
+- ANSYS 2D Fluid Flow: NACA0008 pressure contour (Freestream Velocity 3m/s, Angle of Attack 0°) <img width="1675" height="1216" alt="image" src="https://github.com/user-attachments/assets/7ffb0945-b7a1-47a4-b49f-a9f7b7e9e917" />
+- ANSYS 2D Fluid Flow: NACA0008 velocity contour (Freestream Velocity 3m/s, Angle of Attack 0°) <img width="1675" height="1212" alt="image" src="https://github.com/user-attachments/assets/4481600d-a857-4916-a843-ee0d6dc6cb8e" />
+- ANSYS 2D Fluid Flow: NACA0008 velocity contour closeup (Freestream Velocity 3m/s, Angle of Attack 0°) <img width="1668" height="1201" alt="image" src="https://github.com/user-attachments/assets/a4e33115-3c70-4f6a-9172-1000be06332c" />
+- ANSYS 2D Fluid Flow: NACA0008 pressure contour (Freestream Velocity 3m/s, Angle of Attack 16°) <img width="1673" height="1202" alt="image" src="https://github.com/user-attachments/assets/255da128-9391-47b9-9fb0-55f1863c6d95" />
+- ANSYS 2D Fluid Flow: NACA0008 velocity contour (Freestream Velocity 3m/s, Angle of Attack 16°) <img width="1670" height="1210" alt="image" src="https://github.com/user-attachments/assets/ac84d529-80be-495f-9782-86a85b646aad" />
+- ANSYS 2D Fluid Flow: NACA0008 velocity contour closeup (Freestream Velocity 3m/s, Angle of Attack 16°) <img width="1123" height="378" alt="image" src="https://github.com/user-attachments/assets/86889339-bda4-4511-9eea-96da1eaaaeb3" />
 - ANSYS 2D Fluid Flow: NACA0008 Results Table
 <img width="397" height="123" alt="image" src="https://github.com/user-attachments/assets/0b8f0fec-3ea9-4743-9c06-6d8214fda658" />
 
