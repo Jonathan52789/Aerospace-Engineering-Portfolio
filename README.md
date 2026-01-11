@@ -22,10 +22,12 @@
 ![Lever assembly_dwg1](https://github.com/user-attachments/assets/d1760339-134c-4752-9826-089462379aea)
 
 ## ANSYS Simulations
+
 ### FEA (Stress/Thermal)
 - ANSYS 3D Steady-State Thermal Analysis: Fixed-Temperature Block (22°C Base, 10°C Opposite Face, Structural Steel k=60.5 W/m·K) <img width="2172" height="929" alt="image" src="https://github.com/user-attachments/assets/ba25c446-10d5-4731-b8d1-cc62a86a2e8b" />
 - ANSYS 3D Static Structural: Aluminum L-Bracket (von Mises max 234 MPa, avg 11.5 MPa, δ=0.1 mm) <img width="2173" height="1204" alt="image" src="https://github.com/user-attachments/assets/7087897d-40cb-481d-beee-74edcdf82632" />
 - ANSYS 3D Static Structural: Aluminum L-Bracket (von Mises max 234 MPa, avg 11.5 MPa, δ=0.1 mm) (Section View to view internal stress) <img width="2169" height="929" alt="image" src="https://github.com/user-attachments/assets/d8417f2c-c12f-4424-a885-5ec020bfa109" />
+
 ### CFD (Fluid Flow)
 - ANSYS 2D Fluid Flow: NACA0008 pressure contour (Freestream Velocity 3m/s, Angle of Attack 0°) <img width="1675" height="1216" alt="image" src="https://github.com/user-attachments/assets/7ffb0945-b7a1-47a4-b49f-a9f7b7e9e917" />
 - ANSYS 2D Fluid Flow: NACA0008 velocity contour (Freestream Velocity 3m/s, Angle of Attack 0°) <img width="1675" height="1212" alt="image" src="https://github.com/user-attachments/assets/4481600d-a857-4916-a843-ee0d6dc6cb8e" />
