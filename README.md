@@ -40,13 +40,16 @@
 
 ## Troitsky Bridge Building Competition
 
-- First Initial Dimensionless Solidworks Drawing
-[View Initial Basic Truss](Very-Basic-Truss.pdf)
+- Initial Truss Configuration
+[Initial Truss](Very-Basic-Truss.pdf)
 
-- SolidWorks Bridge Design
+- Preliminary Bridge Sketch
+[Preliminary Sketch](Bridge.pdf)
 <img width="1584" height="813" alt="image" src="https://github.com/user-attachments/assets/6aca5bb8-1c04-4f9c-866f-cfa957af3f17" />
 
-[View Bridge Drawing PDF](Bridge.pdf)
+- Final Assembly Drawing
+[Bridge Assembly](https://github.com/user-attachments/files/25319688/Bridge.pdf)
+<img width="1560" height="883" alt="image" src="https://github.com/user-attachments/assets/6d8bd29e-1aa5-40c3-98de-7a7228d035a6" />
 
 ## RC McLaren 765LT - CEGEP Physics For Engineers Final Project
 **Team of 4 (2024) | My role: Physical assembly**
