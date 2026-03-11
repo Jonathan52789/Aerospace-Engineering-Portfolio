@@ -53,14 +53,14 @@ As Structural Lead on Concordia University's Troitsky Bridge Building Team, we d
 [Final Bridge Assembly](Final-Bridge-Assembly.pdf)
 <img width="1560" height="883" alt="image" src="https://github.com/user-attachments/assets/6d8bd29e-1aa5-40c3-98de-7a7228d035a6" />
 
-- 3d Printed Jigs used for Building Connections
-![1772980150932](https://github.com/user-attachments/assets/792a2d88-a1f1-4a9a-bb99-dbf224d0b4db)
+- 3D Printed Jigs for Connections  
+  <img src="https://github.com/user-attachments/assets/792a2d88-a1f1-4a9a-bb99-dbf224d0b4db" width="800" alt="3D printed jigs">
 
-- Bridge Final Fabrication
-![1772980150723](https://github.com/user-attachments/assets/68573147-c9fe-4d60-92fb-21839287ed07)
+- Bridge Final Fabrication  
+  <img src="https://github.com/user-attachments/assets/68573147-c9fe-4d60-92fb-21839287ed07" width="800" alt="Bridge post-fab with clamps">
 
-- Team Photo with Bowser Themed Display
-![1772980150735](https://github.com/user-attachments/assets/c47ba3ef-3a87-432c-9733-5bbf724a8a2c)
+- Team at Bowser Display  
+  <img src="https://github.com/user-attachments/assets/c47ba3ef-3a87-432c-9733-5bbf724a8a2c" width="800" alt="Team behind themed display">
 
 ## RC McLaren 765LT - CEGEP Physics For Engineers Final Project
 **Team of 4 (2024) | My role: Physical assembly**
