@@ -40,6 +40,8 @@
 
 ## Troitsky Bridge Building Competition
 
+As Structural Lead on Concordia University's Troitsky Bridge Building Team, we designed a ~1.3m span popsicle stick bridge in SolidWorks that held a 486kg crushing load, top load/structural efficiency vs. 5 Concordia teams (9th/31 nationally).
+
 - Initial Truss Configuration
 [Initial Truss](Initial-Truss-Configuration.pdf)
 
