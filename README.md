@@ -2,7 +2,7 @@
 
 Aerospace Engineering student at Concordia University (Gina Cody School of Engineering), with experience in CAD, FEA/CFD, Structural Design, and prototyping.
 
-##Projects
+## Projects
 
 ### Troitsky Bridge Building Competition - Structural Lead
 Concordia University | Concordia Bridge Building Team | 2025-2026
