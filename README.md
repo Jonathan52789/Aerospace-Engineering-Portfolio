@@ -32,11 +32,11 @@ As Structural Lead on Concordia University's Troitsky Bridge Building Team, we d
 ### Thermoelectric Generator Car - Thermodynamics II Project
 Concordia University | Thermodynamics II (MECH 351) | 2026
 
-** Overview **
+**Overview**
 - Designed a small car powered by a thermoelectric generator (TEG) connected to a DC motor.
 - Primary Goal: To travel 1 meter and climb a 20° incline.
 
-  ** Prototyping and output voltage optimisation **
+  **Prototyping and output voltage optimisation**
 
   - Iteration 1 - Ambient temperature cooling (Baseline) producing 0.4 V
   ![image-20260325-154514-054753a4](https://github.com/user-attachments/assets/beefbfa3-8851-44fd-af03-7cbe9853ad7a)
@@ -46,7 +46,7 @@ Concordia University | Thermodynamics II (MECH 351) | 2026
 
   Using this data, it was decided that the car would have a Heat Sink with an ice Reservoir.
 
- ** Fabrication **
+ **Fabrication**
  
   - 3D Printed Chassis with wheels and motor (Early assembly)
     ![image-20260325-200026-d2e786b6](https://github.com/user-attachments/assets/db7c4360-90ae-4328-ade0-f1bd3d01e6c6)
@@ -54,7 +54,7 @@ Concordia University | Thermodynamics II (MECH 351) | 2026
   - Final Car Configuration - Producing an average of 1.4 V
     ![image-20260328-193118-5fbe6b72](https://github.com/user-attachments/assets/81734601-c4ca-46a9-b99f-038b1e1576b5)
 
-** Final Performance **
+**Final Performance**
 
   - Video: TEG car successfully climbs target incline of 20°
 <video src="https://github.com/user-attachments/assets/23eec428-b882-4066-92f8-a3ebbb8c523e"
