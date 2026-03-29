@@ -21,7 +21,9 @@ As Structural Lead on Concordia University's Troitsky Bridge Building Team, we d
 <img width="1560" height="883" alt="image" src="https://github.com/user-attachments/assets/6d8bd29e-1aa5-40c3-98de-7a7228d035a6" />
 
 - 3D Printed Jigs for Connections  
-  <img src="https://github.com/user-attachments/assets/792a2d88-a1f1-4a9a-bb99-dbf224d0b4db" alt="Jigs for connections">
+  <img src="https://github.com/user-attachments/assets/792a2d88-a1f1-4a9a-bb99-dbf224d0b4db" 
+     alt="3D‑printed jigs for connections"
+     width="600">
 
 - Bridge Final Fabrication  
   <img src="https://github.com/user-attachments/assets/68573147-c9fe-4d60-92fb-21839287ed07" width="800" alt="Bridge post-fab with clamps">
@@ -38,9 +40,13 @@ Designed a small car powered by a thermoelectric generator (TEG) connected to a 
   **Prototyping and output voltage optimisation**
 
   - Iteration 1 - Ambient temperature cooling (Baseline) producing 0.4 V
-  ![image-20260325-154514-054753a4](https://github.com/user-attachments/assets/beefbfa3-8851-44fd-af03-7cbe9853ad7a)
+  <img src="https://github.com/user-attachments/assets/beefbfa3-8851-44fd-af03-7cbe9853ad7a" 
+     alt="TEG prototype iteration 1 – ambient cooling"
+     width="600">
   - Iteration 2 - Cooling with Ice in a bowl producing 0.7 V
-  ![image-20260325-154557-4ef7f5c3](https://github.com/user-attachments/assets/15802cea-f15a-48cd-a753-0be3d426833f)
+  <img src="https://github.com/user-attachments/assets/15802cea-f15a-48cd-a753-0be3d426833f" 
+     alt="TEG prototype iteration 2 – ice in bowl"
+     width="600">
   - Iteration 3 - Cooling with Ice on a Heat Sink producing 1.1 V
 
   Using this data, it was decided that the car would have a Heat Sink with an ice Reservoir.
@@ -48,10 +54,14 @@ Designed a small car powered by a thermoelectric generator (TEG) connected to a 
  **Fabrication**
  
   - 3D Printed Chassis with wheels and motor (Early assembly)
-    ![image-20260325-200026-d2e786b6](https://github.com/user-attachments/assets/db7c4360-90ae-4328-ade0-f1bd3d01e6c6)
+   <img src="https://github.com/user-attachments/assets/db7c4360-90ae-4328-ade0-f1bd3d01e6c6" 
+     alt="3D‑printed chassis with wheels and motor"
+     width="600">
 
-  - Final Car Configuration - Producing an average of 1.4 V
-    ![image-20260328-193118-5fbe6b72](https://github.com/user-attachments/assets/81734601-c4ca-46a9-b99f-038b1e1576b5)
+  - Final TEG-Car Configuration - Producing an average of 1.4 V
+    <img src="https://github.com/user-attachments/assets/81734601-c4ca-46a9-b99f-038b1e1576b5" 
+     alt="Final TEG‑car configuration averaging 1.4 V"
+     width="600">
 
 **Final Performance**
 
@@ -68,9 +78,13 @@ Designed and built a functional McLaren 765LT replica using Fusion 360 and Blend
 
 **Media**  
 
-![McLaren765LT](https://github.com/user-attachments/assets/1962829b-91da-4970-8b8e-1e75fb4d33a4)
+<img src="https://github.com/user-attachments/assets/1962829b-91da-4970-8b8e-1e75fb4d33a4" 
+     alt="RC McLaren 765LT exterior"
+     width="600">
 
-![Internals](https://github.com/user-attachments/assets/0f53c9af-d713-41ac-a33c-0c848c38e29d)
+<img src="https://github.com/user-attachments/assets/0f53c9af-d713-41ac-a33c-0c848c38e29d" 
+     alt="Internal electronics and wiring of RC McLaren 765LT"
+     width="600">
 
 <video src="https://github.com/user-attachments/assets/2cc91398-2c4f-4147-98bc-ff3ed191e31c"
        width="600" height="350" controls loop>
