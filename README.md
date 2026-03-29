@@ -70,8 +70,8 @@ Designed a small car powered by a thermoelectric generator (TEG) connected to a 
        controls loop>
 </video>
 
-### RC McLaren 765LT - CEGEP Physics For Engineers Final Project
-John Abbott College | 2024
+### RC McLaren 765LT - Physics For Engineers Project
+John Abbott College | Physics for Engineers | 2024
 
 **Overview**  
 Designed and built a functional McLaren 765LT replica using Fusion 360 and Blender for modeling, 3D printing for fabrication, and Arduino-based electronics enabling remote-control driving, steering, and functional headlights, demonstrating strong prototyping, assembly, and mechatronics skills.
