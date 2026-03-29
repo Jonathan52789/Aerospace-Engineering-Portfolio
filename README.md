@@ -57,7 +57,7 @@ Concordia University | Thermodynamics II (MECH 351) | 2026
 
   - Video: TEG car successfully climbs target incline of 20 degrees
 <video src="https://github.com/user-attachments/assets/23eec428-b882-4066-92f8-a3ebbb8c523e"
-       width="600" height="350" controls loop>
+       height="350" controls loop>
 </video>
 
 ### RC McLaren 765LT - CEGEP Physics For Engineers Final Project
