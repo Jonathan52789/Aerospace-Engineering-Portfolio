@@ -34,7 +34,8 @@ Concordia University | Thermodynamics II (MECH 351) | 2026
 
 - Designed a small car powered by a thermoelectric generator (TEG) connected to a DC motor.
 - Goal: To travel 1 meter and climb a 20 degree incline.
-- Analysed prototypes of Peltier device setups in order to achieve the highest possible output voltage.
+
+  #### Analysed prototypes of Peltier device setups in order to achieve the highest possible output voltage.
 
   -Iteration 1 - Ambient temperature cooling (Baseline) producing 0.4 V
   ![image-20260325-154514-054753a4](https://github.com/user-attachments/assets/beefbfa3-8851-44fd-af03-7cbe9853ad7a)
@@ -42,7 +43,9 @@ Concordia University | Thermodynamics II (MECH 351) | 2026
   ![image-20260325-154557-4ef7f5c3](https://github.com/user-attachments/assets/15802cea-f15a-48cd-a753-0be3d426833f)
   -Iteration 3 - Cooling with Ice on a Heat Sink producing 1.1 V
 
-  - Using this data, it was decided that the car would have a Heat Sink with an ice Reservoir.
+  Using this data, it was decided that the car would have a Heat Sink with an ice Reservoir.
+
+ #### Fabrication
  
   - 3D Printed Chassis with wheels and motor (Early assembly)
     ![image-20260325-200026-d2e786b6](https://github.com/user-attachments/assets/db7c4360-90ae-4328-ade0-f1bd3d01e6c6)
@@ -50,9 +53,12 @@ Concordia University | Thermodynamics II (MECH 351) | 2026
   - Final Car Configuration - Producing an average of 1.4 V
     ![image-20260328-193118-5fbe6b72](https://github.com/user-attachments/assets/81734601-c4ca-46a9-b99f-038b1e1576b5)
 
-  - Video: TEG car successfully climbs target incline of 20 degrees
-    
+#### Final Performance
 
+  - Video: TEG car successfully climbs target incline of 20 degrees
+<video src="https://github.com/user-attachments/assets/23eec428-b882-4066-92f8-a3ebbb8c523e"
+       width="600" height="350" controls loop>
+</video>
 
 ### RC McLaren 765LT - CEGEP Physics For Engineers Final Project
 **Team of 4 (2024) | My role: Physical assembly**
