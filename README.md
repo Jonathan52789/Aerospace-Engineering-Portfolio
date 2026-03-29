@@ -33,8 +33,7 @@ As Structural Lead on Concordia University's Troitsky Bridge Building Team, we d
 Concordia University | Thermodynamics II (MECH 351) | 2026
 
 **Overview**
-- Designed a small car powered by a thermoelectric generator (TEG) connected to a DC motor.
-- Primary Goal: To travel 1 meter and climb a 20° incline.
+Designed a small car powered by a thermoelectric generator (TEG) connected to a DC motor. Primary Goal: To travel 1 meter and climb a 20° incline.
 
   **Prototyping and output voltage optimisation**
 
