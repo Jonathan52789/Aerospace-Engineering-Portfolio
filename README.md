@@ -34,7 +34,7 @@ Concordia University | Thermodynamics II (MECH 351) | 2026
 
 ** Overview **
 - Designed a small car powered by a thermoelectric generator (TEG) connected to a DC motor.
-- Goal: To travel 1 meter and climb a 20 degree incline.
+- Primary Goal: To travel 1 meter and climb a 20° incline.
 
   ** Prototyping and output voltage optimisation **
 
@@ -56,13 +56,13 @@ Concordia University | Thermodynamics II (MECH 351) | 2026
 
 ** Final Performance **
 
-  - Video: TEG car successfully climbs target incline of 20 degrees
+  - Video: TEG car successfully climbs target incline of 20°
 <video src="https://github.com/user-attachments/assets/23eec428-b882-4066-92f8-a3ebbb8c523e"
        controls loop>
 </video>
 
 ### RC McLaren 765LT - CEGEP Physics For Engineers Final Project
-**Team of 4 (2024) | My role: Physical assembly**
+John Abbott College | 2024
 
 **Overview**  
 Designed and built a functional McLaren 765LT replica using Fusion 360 and Blender for modeling, 3D printing for fabrication, and Arduino-based electronics enabling remote-control driving, steering, and functional headlights, demonstrating strong prototyping, assembly, and mechatronics skills.
