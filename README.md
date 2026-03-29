@@ -34,8 +34,7 @@ Concordia University | Thermodynamics II (MECH 351) | 2026
 
 - Designed a small car powered by a thermoelectric generator (TEG) connected to a DC motor.
 - Goal: To travel 1 meter and climb a 20 degree incline.
-- Analysed prototypes in order to achieve the highest efficiency possible.
-- Starting with finding the highest voltage producing Peltier device setup.
+- Analysed prototypes of Peltier device setups in order to achieve the highest possible output voltage.
 
   -Iteration 1 - Ambient temperature cooling (Baseline) producing 0.4 V
   ![image-20260325-154514-054753a4](https://github.com/user-attachments/assets/beefbfa3-8851-44fd-af03-7cbe9853ad7a)
