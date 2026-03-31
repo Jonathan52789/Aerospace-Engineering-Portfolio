@@ -143,7 +143,7 @@ Independent CAD Project | 2025
 **ANSYS 2D Fluid Flow:** NACA0008 pressure contour (Freestream Velocity 3m/s, Angle of Attack 16°) <img width="1673" height="1202" alt="image" src="https://github.com/user-attachments/assets/255da128-9391-47b9-9fb0-55f1863c6d95" />
 **ANSYS 2D Fluid Flow:** NACA0008 velocity contour (Freestream Velocity 3m/s, Angle of Attack 16°) <img width="1670" height="1210" alt="image" src="https://github.com/user-attachments/assets/ac84d529-80be-495f-9782-86a85b646aad" />
 **ANSYS 2D Fluid Flow:** NACA0008 velocity contour closeup (Freestream Velocity 3m/s, Angle of Attack 16°) <img width="1123" height="378" alt="image" src="https://github.com/user-attachments/assets/86889339-bda4-4511-9eea-96da1eaaaeb3" />
-**ANSYS 2D Fluid Flow:** NACA0008 Results Table
+**ANSYS 2D Fluid Flow:** NACA0008 Results Table                                                                          
 <img width="397" height="123" alt="image" src="https://github.com/user-attachments/assets/0b8f0fec-3ea9-4743-9c06-6d8214fda658" />
 
 
