@@ -100,7 +100,7 @@ Arduino Uno reads a temperature sensor (DHT11) and drives a servo motor to displ
 
 **Demo Video**
 Live demonstration of the Arduino hardware running the code.
-<video src="https://github.com/user-attachments/assets/2cc91398-2c4f-4147-98bc-ff3ed191e31c"
+<video src="https://github.com/user-attachments/assets/d1f90642-d40e-4b2c-a19b-f3a53605ee93"
        width="600" height="350" controls loop>
 </video>
 
