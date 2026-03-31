@@ -51,7 +51,7 @@ Designed a small car powered by a thermoelectric generator (TEG) connected to a 
                                                                        
 **Iteration 3** - Cooling with Ice on a Heat Sink producing 1.1 V
 
-  Using this data, it was decided that the car would have a Heat Sink with an ice Reservoir.
+- Using this data, it was decided that the car would have a Heat Sink with an ice Reservoir.
 
  **Fabrication**
  
