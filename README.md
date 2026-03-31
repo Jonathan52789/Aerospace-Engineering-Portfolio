@@ -72,7 +72,7 @@ Designed a small car powered by a thermoelectric generator (TEG) connected to a 
 
 **Video:** TEG car successfully climbs target incline of 20°
 <video src="https://github.com/user-attachments/assets/23eec428-b882-4066-92f8-a3ebbb8c523e"
-controls loop>
+muted controls loop>
 </video>
 
 ### RC McLaren 765LT - Physics For Engineers Project
@@ -92,7 +92,7 @@ Designed and built a functional McLaren 765LT replica using Fusion 360 and Blend
      width="600">
 
 <video src="https://github.com/user-attachments/assets/2cc91398-2c4f-4147-98bc-ff3ed191e31c"
-       width="600" height="350" controls loop>
+       width="600" height="350" muted controls loop>
 </video>
 
 ### Arduino-controlled Temperature Dial
@@ -104,7 +104,7 @@ Arduino Uno reads a DHT11 sensor and drives a servo motor to display the current
 **Demo Video**
 Live demonstration of the Arduino hardware running the code.
 <video src="https://github.com/user-attachments/assets/d1f90642-d40e-4b2c-a19b-f3a53605ee93"
-       width="600" height="350" controls loop>
+       width="600" height="350" muted controls loop>
 </video>
 
 **Source Code**
