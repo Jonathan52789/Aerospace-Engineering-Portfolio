@@ -20,7 +20,7 @@ As Structural Lead on Concordia University's Troitsky Bridge Building Team, we d
 [Final Bridge Assembly](Final-Bridge-Assembly.pdf)
 <img width="1560" height="883" alt="image" src="https://github.com/user-attachments/assets/6d8bd29e-1aa5-40c3-98de-7a7228d035a6" />
 
-**3D Printed Jigs for Connections**
+**3D Printed Jigs for Connections**                                                                     
   <img src="https://github.com/user-attachments/assets/792a2d88-a1f1-4a9a-bb99-dbf224d0b4db" 
      alt="3D‑printed jigs for connections"
      width="350">
