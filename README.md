@@ -2,6 +2,9 @@
 
 Aerospace Engineering student at Concordia University (Gina Cody School of Engineering), with experience in CAD, FEA/CFD, Structural Design, and prototyping.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-forlini)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jonathanforlini@gmail.com)
+
 ## Projects
 
 ### Troitsky Bridge Building Competition - Structural Lead
