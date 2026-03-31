@@ -72,7 +72,8 @@ Designed a small car powered by a thermoelectric generator (TEG) connected to a 
 
 **Video:** TEG car successfully climbs target incline of 20°
 <video src="https://github.com/user-attachments/assets/23eec428-b882-4066-92f8-a3ebbb8c523e"
-       **muted** controls loop width="600" height="350"></video>
+controls loop>
+</video>
 
 ### RC McLaren 765LT - Physics For Engineers Project
 John Abbott College | Physics for Engineers | 2024
