@@ -43,10 +43,12 @@ Designed a small car powered by a thermoelectric generator (TEG) connected to a 
   <img src="https://github.com/user-attachments/assets/beefbfa3-8851-44fd-af03-7cbe9853ad7a" 
      alt="TEG prototype iteration 1 – ambient cooling"
      width="600">
+                                                                         
 **Iteration 2** - Cooling with Ice in a bowl producing 0.7 V                                                    
   <img src="https://github.com/user-attachments/assets/15802cea-f15a-48cd-a753-0be3d426833f" 
      alt="TEG prototype iteration 2 – ice in bowl"
      width="600">
+                                                                       
 **Iteration 3** - Cooling with Ice on a Heat Sink producing 1.1 V
 
   Using this data, it was decided that the car would have a Heat Sink with an ice Reservoir.
