@@ -90,6 +90,20 @@ Designed and built a functional McLaren 765LT replica using Fusion 360 and Blend
        width="600" height="350" controls loop>
 </video>
 
+### Arduino-controlled Temperature Dial
+Concordia University | Programming (MIAE 215) | 2025
+
+**Overview**
+Arduino Uno reads a temperature sensor (DHT11) and drives a servo motor to display the current temperature on an analog dial gauge. A green light indicates the system is running while a red light blinks for every significant temperature adjustment. Demonstrates sensor integration, servo control, and real-time feedback loops.
+
+**Demo Video**
+Live demonstration of the Arduino hardware running the code.
+
+
+**Source Code**
+
+
+
 ### Siemens NX
 Independent CAD Project | 2025
 
