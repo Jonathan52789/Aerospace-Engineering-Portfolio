@@ -25,10 +25,10 @@ As Structural Lead on Concordia University's Troitsky Bridge Building Team, we d
      alt="3D‑printed jigs for connections"
      width="350">
 
-**Bridge Final Fabrication**
+**Bridge Final Fabrication**                                
   <img src="https://github.com/user-attachments/assets/68573147-c9fe-4d60-92fb-21839287ed07" width="800" alt="Bridge post-fab with clamps">
 
-**Team at Bowser Themed Display**
+**Team at Bowser Themed Display**                                
   <img src="https://github.com/user-attachments/assets/c47ba3ef-3a87-432c-9733-5bbf724a8a2c" width="800" alt="Team behind themed display">
 
 ### Thermoelectric Generator Car - Thermodynamics II Project
