@@ -107,7 +107,7 @@ Live demonstration of the Arduino hardware running the code.
 ### Siemens NX
 Independent CAD Project | 2025
 
-- Siemens NX 3D Model: Drill Press Support (Parametric Revolve) <img width="1579" height="1053" alt="image" src="https://github.com/user-attachments/assets/9def129c-f0d7-4f2c-bc71-1630c50916b2" />
+**Siemens NX 3D Model:** Drill Press Support (Parametric Revolve) <img width="1579" height="1053" alt="image" src="https://github.com/user-attachments/assets/9def129c-f0d7-4f2c-bc71-1630c50916b2" />
 
 - Siemens NX Drawing: Drill Press Support Orthographic views, Section A-A, Detail B (2:1 scale)
 ![Support_dwg1](https://github.com/user-attachments/assets/9e058ce7-6de5-4a96-a53b-7bec1bf70b48)
