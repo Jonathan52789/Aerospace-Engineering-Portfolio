@@ -96,7 +96,7 @@ Designed and built a functional McLaren 765LT replica using Fusion 360 and Blend
 Concordia University | Programming (MIAE 215) | 2025
 
 **Overview**
-Arduino Uno reads a temperature sensor (DHT11) and drives a servo motor to display the current temperature on an analog dial gauge (0-40°C). A green LED indicates the system is running while a red LED blinks for every significant temperature adjustment. Demonstrates sensor integration, servo control, and real-time feedback loops, skills transferable to aerospace control systems.
+Arduino Uno reads a DHT11 sensor and drives a servo motor to display the current temperature on an analog dial gauge (0-40°C). A green LED indicates the system is running while a red LED blinks for every significant temperature adjustment (>0.1°C change). Demonstrates sensor integration, precise servo mapping, and real-time feedback control for aerospace systems.
 
 **Demo Video**
 Live demonstration of the Arduino hardware running the code.
