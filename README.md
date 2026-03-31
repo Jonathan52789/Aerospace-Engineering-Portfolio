@@ -101,7 +101,7 @@ Live demonstration of the Arduino hardware running the code.
 
 
 **Source Code**
-
+[![Open Code](Arduino_Temperature_Dial.ino)](Arduino_Temperature_Dial.ino)  
 
 
 ### Siemens NX
