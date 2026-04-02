@@ -133,6 +133,21 @@ Independent CAD Project | 2025
 **Siemens NX Drawing:** Lever Assembly Orthographic views, Detail A (2:1 scale)
 ![Lever assembly_dwg1](https://github.com/user-attachments/assets/d1760339-134c-4752-9826-089462379aea)
 
+### CATIA V5
+Concordia University | Introduction to Aircraft Design (AERO 290) | 2026
+
+**CATIA V5 3D Model** Wing Spar (Multi-Hole Flanged)
+<img width="1549" height="1013" alt="Spar" src="https://github.com/user-attachments/assets/7f03535a-2840-4a9c-bfad-9fe29e3694d1" />
+
+**CATIA V5 3D Model** Wing Spar Lug/Bracket
+<img width="515" height="524" alt="Lug" src="https://github.com/user-attachments/assets/6c3cc439-24f4-42e5-be48-e0546ca04aad" />
+
+**CATIA V5 3D Model** Wing Spar Assembly (Spar & Lug/Bracket)
+<img width="1425" height="566" alt="Assembly (Spar+Lug)" src="https://github.com/user-attachments/assets/4272fa3b-64c3-48b9-8225-f5395d0832d7" />
+
+**CATIA V5 3D Model** Pratt & Whitney PT6A-34 Engine Concept
+<img width="946" height="705" alt="Engine" src="https://github.com/user-attachments/assets/38322cfd-18a2-4092-8185-42c7557d2a91" />
+
 ### ANSYS Simulations - FEA & CFD
 
 #### FEA (Stress/Thermal)
