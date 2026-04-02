@@ -139,7 +139,7 @@ Concordia University | Introduction to Aircraft Design (AERO 290) | 2026
 **CATIA V5 3D Model** Wing Spar (Multi-Hole Flanged)
 <img width="1549" height="1013" alt="Spar" src="https://github.com/user-attachments/assets/7f03535a-2840-4a9c-bfad-9fe29e3694d1" />
 
-**CATIA V5 3D Model** Wing Spar Lug/Bracket
+**CATIA V5 3D Model** Wing Spar Lug/Bracket                                                                   
 <img width="515" height="524" alt="Lug" src="https://github.com/user-attachments/assets/6c3cc439-24f4-42e5-be48-e0546ca04aad" />
 
 **CATIA V5 3D Model** Wing Spar Assembly (Spar & Lug/Bracket)
