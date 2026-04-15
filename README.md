@@ -58,13 +58,13 @@ Designed a small car powered by a thermoelectric generator (TEG) connected to a 
 
 **Preliminary Design**
 
-Chassis 3D Model Drawing
+Chassis 3D Model Drawing                                               
 <img width="600" alt="Chassis 3D Model" src="https://github.com/user-attachments/assets/7a08a615-95db-4279-bceb-b8f19d26d7af" />
 
 Assembly of TEG-Car                                                
 <img width="435" height="501" alt="Assembly" src="https://github.com/user-attachments/assets/5dc3d8f4-2b1b-4e4c-a23a-ee2c7081bfed" />
 
-Exploded View of Assembly
+Exploded View of Assembly                                            
 <img width="586" height="451" alt="Exploded View" src="https://github.com/user-attachments/assets/05ebbb74-82cb-49bd-aeec-50cb9b10bc8a" />
 
  **Fabrication**
