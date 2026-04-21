@@ -134,6 +134,7 @@ Concordia University | Introduction to Aircraft Design (AERO 290) | 2026
 <img width="946" height="705" alt="Engine" src="https://github.com/user-attachments/assets/38322cfd-18a2-4092-8185-42c7557d2a91" />
 
 ### ANSYS Simulations - FEA & CFD
+Independent Project | 2025
 
 #### FEA (Stress/Thermal)
 **ANSYS 3D Steady-State Thermal Analysis:** Fixed-Temperature Block (22°C Base, 10°C Opposite Face, Structural Steel k=60.5 W/m·K) <img width="2172" height="929" alt="image" src="https://github.com/user-attachments/assets/ba25c446-10d5-4731-b8d1-cc62a86a2e8b" />
