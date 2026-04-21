@@ -5,6 +5,15 @@ Aerospace Engineering @ Concordia (Gina Cody) | Incoming Pratt & Whitney Operati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-forlini)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jonathanforlini@gmail.com)
 
+## Skills & Tools
+
+| Category | Tools |
+|---|---|
+| **CAD** | CATIA V5, SolidWorks, Siemens NX, Fusion 360, OpenVSP, AutoCAD |
+| **Simulation** | ANSYS Mechanical (FEA/CFD) |
+| **Programming** | MATLAB/Simulink, C++, Arduino |
+| **Data Analysis** | Excel (Advanced), Engineering Statistics |
+
 ## Projects
 
 ### Troitsky Bridge Building Competition - Structural Lead
