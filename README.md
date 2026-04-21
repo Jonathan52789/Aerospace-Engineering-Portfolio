@@ -109,44 +109,6 @@ Designed and built a functional McLaren 765LT replica using Fusion 360 and Blend
        width="600" height="350" muted controls loop>
 </video>
 
-### Arduino-controlled Temperature Dial
-Concordia University | Programming (MIAE 215) | 2025
-
-**Overview**
-Arduino Uno reads a DHT11 sensor and drives a servo motor to display the current temperature on an analog dial gauge (0-40°C). A green LED indicates the system is running while a red LED blinks for every significant temperature adjustment (>0.1°C change). Demonstrates sensor integration, precise servo mapping, and real-time feedback control for aerospace systems.
-
-**Demo Video**
-Live demonstration of the Arduino hardware running the code.
-<video src="https://github.com/user-attachments/assets/d1f90642-d40e-4b2c-a19b-f3a53605ee93"
-       width="600" height="350" muted controls loop>
-</video>
-
-**Source Code**
-[![Open Code](Arduino_Temperature_Dial.ino)](Arduino_Temperature_Dial.ino)  
-
-### Siemens NX
-Independent CAD Project | 2025
-
-**Siemens NX 3D Model:** Drill Press Support (Parametric Revolve) <img width="1579" height="1053" alt="image" src="https://github.com/user-attachments/assets/9def129c-f0d7-4f2c-bc71-1630c50916b2" />
-
-**Siemens NX Drawing:** Drill Press Support Orthographic views, Section A-A, Detail B (2:1 scale)
-![Support_dwg1](https://github.com/user-attachments/assets/9e058ce7-6de5-4a96-a53b-7bec1bf70b48)
-
-**Siemens NX 3D Model:** Drill Press Table lock <img width="1975" height="1170" alt="image" src="https://github.com/user-attachments/assets/019a4cf2-416e-4916-82fe-271e8507b304" />
-
-**Siemens NX Drawing:** Drill Press Table Lock Orthographic views, Section A-A
-![Table Lock_dwg2](https://github.com/user-attachments/assets/d4c342c9-95ea-4cf0-b62e-32127aad44b3)
-
-**Siemens NX 3D Model:** Drill Press Table <img width="2119" height="1176" alt="image" src="https://github.com/user-attachments/assets/66017c09-726e-4806-b221-4955aea8b5b0" />
-
-**Siemens NX Drawing:** Drill Press Table Orthographic views, Section A-A, Detail B (1:1 scale)
-![Table_dwg1](https://github.com/user-attachments/assets/02514cb0-1e65-4242-8a13-250bb1c23764)
-
-**Siemens NX 3D Model:** Lever Assembly <img width="1691" height="1201" alt="image" src="https://github.com/user-attachments/assets/8096f49f-7b71-4578-b6f1-4d434cd6b341" />
-
-**Siemens NX Drawing:** Lever Assembly Orthographic views, Detail A (2:1 scale)
-![Lever assembly_dwg1](https://github.com/user-attachments/assets/d1760339-134c-4752-9826-089462379aea)
-
 ### CATIA V5
 Concordia University | Introduction to Aircraft Design (AERO 290) | 2026
 
