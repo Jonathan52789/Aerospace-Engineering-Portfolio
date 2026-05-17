@@ -11,7 +11,7 @@ Aerospace Engineering @ Concordia (Gina Cody) | Intern @ Pratt & Whitney Canada 
 |---|---|
 | **CAD** | CATIA V5, SolidWorks, Siemens NX, Fusion 360, OpenVSP, AutoCAD |
 | **Simulation** | ANSYS Mechanical (FEA/CFD) |
-| **Programming** | MATLAB/Simulink, C++, Arduino |
+| **Programming** | MATLAB/Simulink, Python, C++, Arduino |
 | **Data Analysis** | Excel (Advanced), Engineering Statistics |
 
 ## Projects
