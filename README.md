@@ -1,6 +1,6 @@
 # Jonathan Forlini - Aerospace Engineering Portfolio
 
-Aerospace Engineering @ Concordia (Gina Cody) | Intern @ Pratt & Whitney Canada | CATIA, ANSYS FEA/CFD, Arduino controls, structural design.
+Aerospace Engineering at Concordia (Gina Cody) | Intern at Pratt & Whitney Canada | CATIA, ANSYS FEA/CFD, Arduino controls, structural design.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-forlini)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jonathanforlini@gmail.com)
@@ -9,10 +9,10 @@ Aerospace Engineering @ Concordia (Gina Cody) | Intern @ Pratt & Whitney Canada 
 
 | Category | Tools |
 |---|---|
-| **CAD** | CATIA V5, SolidWorks, Siemens NX, Fusion 360, OpenVSP, AutoCAD |
-| **Simulation** | ANSYS Mechanical (FEA/CFD) |
-| **Programming** | MATLAB/Simulink, Python, C++, Arduino |
-| **Data Analysis** | Excel (Advanced), Engineering Statistics |
+| **CAD** | CATIA V5, Siemens NX, SolidWorks, Fusion 360, OpenVSP, AutoCAD |
+| **Simulation** | ANSYS (Fluent/Mechanical) |
+| **Programming** | MATLAB/Simulink, Python, C++, Arduino IDE |
+| **Data & Operations** | Advanced Excel, Engineering Statistics, Business Process Management (BPM)|
 
 ## Projects
 
