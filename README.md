@@ -95,9 +95,6 @@ Designed a small car powered by a thermoelectric generator (TEG) connected to a 
 muted controls loop>
 </video>
 
-**Full Report** 
-[Thermo_Generator_Report.pdf](https://github.com/user-attachments/files/26735645/Thermo_Generator_Report.pdf)
-
 ### RC McLaren 765LT - Physics For Engineers Project
 John Abbott College | Physics for Engineers | 2024
 
