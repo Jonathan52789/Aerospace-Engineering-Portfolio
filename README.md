@@ -11,8 +11,10 @@ Aerospace Engineering at Concordia (Gina Cody) | Business Process Management Int
 |---|---|
 | **CAD** | CATIA V5, Siemens NX, SolidWorks, Fusion 360, OpenVSP, AutoCAD |
 | **Simulation** | ANSYS (Fluent/Mechanical) |
-| **Programming** | MATLAB/Simulink, Python, C++, Arduino IDE |
-| **Data & Operations** | Advanced Excel, Engineering Statistics, Business Process Management (BPM), Global Process Compliance |
+| **Programming & Dev** | MATLAB/Simulink, Python, C++, Arduino IDE, Git/GitHub |
+| **Data & Operations** | Power BI, Advanced Excel, Engineering Statistics, Business Process Management (BPM), Global Process Compliance, Enovia V6 |
+| **Manufacturing** | Additive Manufacturing (3D Printing), Mechanical Fabrication / Assembly |
+| **Languages** | Bilingual (English, French) |
 
 ## Projects
 
