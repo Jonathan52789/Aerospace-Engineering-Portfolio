@@ -1,6 +1,6 @@
 # Jonathan Forlini — Aerospace Engineering Portfolio
 
-Aerospace Engineering Student at Concordia University (Gina Cody School) | Business Process Management Intern (Global Process Compliance) at Pratt & Whitney Canada
+Aerospace Engineering Student at Concordia University (Gina Cody School) | Incoming Hybrid-Electric Propulsion (HEP) Engineering Intern | Global Process Compliance Intern at Pratt & Whitney Canada
 
 Specializing in structures, design, and simulation. Experienced in CATIA V5, Siemens NX, ANSYS FEA/CFD, Arduino controls, and technical process documentation.
 
@@ -16,9 +16,16 @@ Specializing in structures, design, and simulation. Experienced in CATIA V5, Sie
 | **CAD & PLM** | CATIA V5, Siemens NX, SolidWorks, Fusion 360, OpenVSP, AutoCAD, Enovia V6 |
 | **Simulation & Analysis** | ANSYS (Fluent / Mechanical), Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD) |
 | **Programming & Dev** | MATLAB/Simulink, Python, C++, Arduino IDE, Git/GitHub |
-| **Operations & Data** | Business Process Management (BPM), Global Process Compliance, Power BI, Advanced Excel, Engineering Statistics |
+| **Operations & Data** | Project Management (Co-Lead PM), Continuous Improvement (CORE Framework), Business Process Management (BPM), Global Process Compliance, Power BI, Advanced Excel |
 | **Manufacturing** | Additive Manufacturing (3D Printing), Mechanical Fabrication, Hands-on Assembly |
 | **Languages** | Bilingual (English, French) |
+
+---
+
+## Professional Highlights (Pratt & Whitney Canada)
+
+*   **Incoming Hybrid-Electric Propulsion (HEP) Engineering Intern (Fall 2026):** Selected for a consecutive rotation supporting electrical propulsion system design, powertrain integration, and flight-test data verification.
+*   **Global Process Compliance Intern (Summer 2026):** Serving as co-lead PM for the high-priority RLPM initiative. Facilitating cross-functional CORE workshops to align departments, bridge operational gaps, and deploy business-wide workflow maps. Fast-tracked an intensive 90-day training curriculum in 5 weeks.
 
 ---
 
